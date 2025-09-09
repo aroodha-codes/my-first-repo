@@ -1,0 +1,22 @@
+# C build outputs
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+
+# Build folders
+/build/
+/bin/
+/Debug/
+/Release/
+
+# IDE/OS files
+.vscode/
+.DS_Store
+Thumbs.db

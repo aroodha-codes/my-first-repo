@@ -403,10 +403,4 @@ int main(){
     }
     return 0;
 }*/
-//purchase amount
-#include<stdio.h>
-int main(){
-    float pa,discount;
-    int ch;
-    printf("");
-}
+
